@@ -43,7 +43,7 @@
 
 ## 3. YOLO를 이용한 이미지 학습 결과
 
-![ppt_video .mp4_20201120_125757](README.assets/ppt_video .mp4_20201120_125757.gif)
+![ppt_video.mp4_20201120_125757](README.assets/ppt_video.mp4_20201120_125757.gif)
 
 
 
